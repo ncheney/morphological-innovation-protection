@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Voxelyze_Sim_Result Version="1.0">
+    <Fitness>
+        <CompositeFitness>0.572809</CompositeFitness>
+        <Height>2.33323</Height>
+        <Distance>0.245501</Distance>
+        <DistX>0.245459</DistX>
+        <NumOutOfCageX>125</NumOutOfCageX>
+        <GoalDirected>999</GoalDirected>
+        <Goal1>-999</Goal1>
+        <Goal2>0.245501</Goal2>
+    </Fitness>
+</Voxelyze_Sim_Result>

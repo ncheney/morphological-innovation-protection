@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Voxelyze_Sim_Result Version="1.0">
+    <Fitness>
+        <DistanceFitness>0.0149729</DistanceFitness>
+        <EnergyFitness>0</EnergyFitness>
+        <StepsIn>83</StepsIn>
+        <StepsOut>4</StepsOut>
+    </Fitness>
+</Voxelyze_Sim_Result>
